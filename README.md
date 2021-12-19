@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thomasfoltz
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Emotion Recognition using Computer Vision
 - 🌱 I’m currently learning C,C++, and Java
 - 📫 How to reach me: thomasfoltz42@gmail.com
 
