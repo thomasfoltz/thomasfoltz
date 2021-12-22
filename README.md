@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thomasfoltz
 - 👀 I’m interested in Emotion Recognition using Computer Vision
-- 🌱 I’m currently learning C,C++, and Java
+- 🌱 I’m currently learning Neural Networks and Deep Learning
 - 📫 How to reach me: thomasfoltz42@gmail.com
 
 <!---
