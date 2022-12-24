@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thomasfoltz
-- 👀 I’m interested in Emotion Recognition and Anomaly Detection using Computer Vision techniques
-- 🌱 I’m currently learning about Few-Shot and Self-Supervised Learning
+- 🔭 Tech Lead at NittanyAI Advance for SEPTA SmartCity Project and Computer Vision/NLP researcher
+- 🌱 I’m currently learning AWS, Cloud Computing, C++, DL for Computer Vision, Operating Systems, and Statistics
+- ⚡ Won **second** place in the 2022 Nittany AI Challenge 2022 with startup [SchizophrenAI](https://github.com/SchizophrenAI)
 - 📫 How to reach me: thomasfoltz42@gmail.com
 
 <!---
