@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thomasfoltz
-- 🔭 Tech Lead at NittanyAI Advance for SEPTA SmartCity Project and Computer Vision/NLP researcher
-- 🌱 I’m currently learning AWS, Cloud Computing, C, DL for Computer Vision, Operating Systems, and Statistics
+- 🔭 Tech Lead for SEPTA SmartCity Project
+- 🌱 I’m currently learning about Computer Architecture, Fullstack Development, Cloud Computing, and Secure Deep Learning
 - ⚡ Won **second** place in the 2022 NittanyAI Challenge with startup [SchizophrenAI](https://github.com/SchizophrenAI)
 - 📫 How to reach me: thomasfoltz42@gmail.com
 
